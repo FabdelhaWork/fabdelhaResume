@@ -5,4 +5,5 @@ The first is a Zombie Apocalypse game with various fun aspects I made in my firs
 
 The second is a Number Guessing game I made in my second semester with a teammate.
 
+For both, simply run the Game.java file.
 Check them out in the master branch!
